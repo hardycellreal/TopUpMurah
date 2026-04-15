@@ -1,5 +1,15 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "hardyzen",
+      "username": "hardycell",
+      "password": "hardy1945@",
+      "color": "#1E40AF"
+    }
+  ],
   "transactions": [],
-  "promoCodes": ["PROMO500", "HEMAT"]
+  "promoCodes": [
+    "PROMO500",
+    "HEMAT"
+  ]
 }
